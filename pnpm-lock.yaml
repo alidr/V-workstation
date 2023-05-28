@@ -11,6 +11,12 @@ importers:
     devDependencies:
       esbuild: 0.17.18
 
+  packages/reactivity:
+    specifiers: {}
+
+  packages/shared:
+    specifiers: {}
+
 packages:
 
   /@esbuild/android-arm/0.17.18:
